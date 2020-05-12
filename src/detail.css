@@ -1,0 +1,54 @@
+.detail-img {
+    border-radius: 10%;
+}
+
+
+.info {
+    margin-top: 1rem;
+    display: flex;
+}
+
+.info-text {
+    margin-left: 1rem;
+}
+
+.calories-tile {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid lightblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+.recepi-tile {
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid lightseagreen;
+    display: flex;
+    justify-content: space-between;
+}
+
+* {
+    text-decoration: none;
+}
+
+body {
+    background-color: rgb(243, 243, 243);
+}
+
+.deit-label {
+    display: flex;
+}
+
+.deit-label-container {
+    padding: 5px 20px;
+    background-color: lightskyblue;
+    color: #fff;
+    border-radius: 10px;
+    font-size: 14px;
+}
+
+.button {
+    margin: 10px;
+}
